@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:45:26.524617
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 16:21
 #+TITLE: 毗尼作持續釋
 #+PROPERTY: CBETA_ID X41n0730
 #+PROPERTY: ID KR6k0160
@@ -1237,7 +1237,7 @@
 ¶
 毗尼作持續釋卷第十三¶
 
-音義¶
+** 音義¶
 
 惡性
 謂不忍不受人如法教誨。¶
